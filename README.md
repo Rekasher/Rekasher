@@ -16,7 +16,7 @@ I'm Andrew — a full-time Full Stack Developer.
 ### 👀 Previously Used  
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org/)  [![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)  [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)](https://graphql.org/)  [![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white)](https://socket.io/)  [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)  [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-### 🧠 Codewars  
+### 🧠 My Codewars  
 [![Codewars](https://img.shields.io/badge/Codewars-Rekasher-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/Rekasher)
 
 ---
